@@ -2,7 +2,7 @@ title: Adamdedwards.github.io
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: heiswayi/thinkspace
 
 gems:
   - jekyll-mentions
