@@ -3,6 +3,3 @@ description:
 google_analytics: 
 show_downloads: true
 remote_theme: heiswayi/thinkspace
-
-gems:
-  - jekyll-mentions
