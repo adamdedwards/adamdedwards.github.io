@@ -1,22 +1,16 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+#### Hi. I'm Adam.
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
+I'm a philosophy student and teacher. Right now I'm a graduate student in the [philosophy department][0] at the [University of Illinois at Urbana-Champaign][1], and an adjunct instructor at both [Heartland Community College][4] and [Lincoln College][5].
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+My research is motivated by an interest in projects in philosophy of science and metaphysics that involve causal graphical models. These projects include defending a view of scientific explanation where causal models play a significant role, developing an empiricist-minded modal epistemology, and giving a causal modeling analysis of dynamic systems. 
 
-### Designer Templates
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
+My dissertation is on causal modeling interventions and experimental design. 
 
-### Rather Drive Stick?
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+I also have research interests in the potential of data mining and machine learning [to contribute to philosophical inquiry][2] and in [experimental philosophy][3].
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
-### Support or Contact
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+[0]: http://www.philosophy.illinois.edu/
+[1]: http://www.illinois.edu/
+[2]: http://adamdedwards.com/sep-analysis
+[3]: http://poplab.philosophy.illinois.edu/
+[4]: http://www.heartland.edu
+[5]: https://abe.lincolncollege.edu/
