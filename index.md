@@ -12,7 +12,7 @@ Before grad school I worked with [Dr. Sriraam Natarajan][6] and the Statistical-
 
 Other than teaching and doing philosophy, I enjoy backpacking, board games, making coffee in increasingly complicated ways, and spending time with my partner [Ashli Anda][13] and our dogs, [Rose][10] 🌹 and [Siege][14] ⚔️. 
 
-My ORCID is <a href="https://orcid.org/0000-0002-6644-0071"><img src="https://members.orcid.org/sites/default/files/vector_iD_icon.svg" style="width:1em;margin-right:.2em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6644-0071</a>.
+My ORCID is <a href="https://orcid.org/0000-0002-6644-0071"><img src="https://members.orcid.org/sites/default/files/vector_iD_icon.svg" style="width:10px;margin-right:.2em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6644-0071</a>.
 
 [6]: http://utdallas.edu/~sriraam.natarajan/
 [7]: http://wfu.edu
