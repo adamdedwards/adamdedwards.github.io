@@ -9,10 +9,13 @@
   <meta name="author" content="Adam Edwards">
 
   <link rel="stylesheet" href="assets/css/styles.css">
-
+  <script type="text/javascript" src="assets/javascript/darkmode.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 
-<body>
+<body class="darkmode">
+
+<div class="wrapper">
 <h3>Hi. I'm Adam.</h3>
 
 <p>I'm a philosophy student and teacher. Right now I'm a graduate student in the philosophy department at the University of Illinois at Urbana-Champaign,
@@ -26,11 +29,15 @@
 
 <h3>Projects</h3>
 
-<ul>
+<ol>
 <li><a href="/sep-graph/">Network Analysis of the Stanford Encyclopedia of Philosophy</a></li>
 <li><a href="#">Kormanize (a LaTeX environment for arguments)</a></li>
 <li><a href="#">Beamer Template (a LaTeX/Beamer template)</a></li>
 <li><a href="#">Open Introduction to Logic: Midwest Collaboration</a></li>
-</ul>
+</ol>
+
+</div>
+<footer class="footer"><button id="darkmode" onclick="darkmode()">Dark Mode</button></footer>
 </body>
+
 </html>
